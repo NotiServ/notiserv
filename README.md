@@ -1,7 +1,8 @@
 # notiserv
 
 ## System Design
-![NotificationPlatform drawio](https://github.com/NotiServ/notiserv/assets/121743571/4f7c7468-1841-45e3-aa8d-d68a837a8d20)
+
+![NotiServ_](https://github.com/NotiServ/notiserv/assets/121743571/ad2741f2-ff29-485e-b4f5-f984469ae23e)
 
 
 

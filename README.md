@@ -35,17 +35,7 @@
     1. Email service: Based on SMTP server with custom email of organization.
     2. SMS Service: Use Fastsms api for now
     3. Whatsapp Service: Use Whataspp APIs
-    4. Push Notifications: provide code in Java, Kotlin, Dart, swift, React Native and JavaScript
 
 
-- APIs
-    1. Authentication
-        1. signup → username, email, phone, organization name, password, confirm password
-        2. login → email, password
-        3. forget password → email
-        4. forget password → phone
-        5. verify email → email, otp
-        6. verify phone → phone, otp
-        7. rest password → email, otp, new password, confirm new password
 
       
